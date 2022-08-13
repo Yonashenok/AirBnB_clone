@@ -1,4 +1,4 @@
-#AirBnB clone - Web static
+# AirBnB clone - Web static
 What is HTML
 How to create an HTML page
 What is a markup language
